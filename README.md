@@ -1,2 +1,2 @@
 # scikit-sandbox
-Just soem scikit stuff
+Just some scikit stuff
